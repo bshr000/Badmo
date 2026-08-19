@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16614,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 283
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18144,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 279
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23917,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 343
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15041,
+          "bbox": [
+            5,
+            49,
+            187,
+            159
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 262
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16982,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 270
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15423,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 6,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17840,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 314
+        },
+        {
+          "index": 7,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\failed\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20406,
+          "bbox": [
+            5,
+            5,
+            187,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 357
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "ok": false,
+  "stage": "v2 atlas validation after the single allowed despill pass",
+  "packaged": false,
+  "installed": false,
+  "despill_report": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\chroma-despill-extended.json",
+  "validation_report": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\final\\validation-extended.json",
+  "blocking_error": "running-left row 2 column 5 has 2 visible edge pixels contaminated by chroma key #FF00FF",
+  "policy": "The hatch-pet workflow forbids a second despill pass, threshold tuning, image regeneration, packaging, or installation after this deterministic validation failure."
+}

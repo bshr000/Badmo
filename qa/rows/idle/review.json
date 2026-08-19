@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "frames_root": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\idle\\frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\idle\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18127,
+          "bbox": [
+            34,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 240
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\idle\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19058,
+          "bbox": [
+            17,
+            9,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\idle\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18894,
+          "bbox": [
+            17,
+            9,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 252
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\idle\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18776,
+          "bbox": [
+            17,
+            9,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\idle\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18635,
+          "bbox": [
+            17,
+            9,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\idle\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18351,
+          "bbox": [
+            17,
+            9,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 244
+        }
+      ]
+    }
+  ]
+}

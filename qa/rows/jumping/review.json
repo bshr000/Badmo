@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\jumping\\frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\jumping\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23683,
+          "bbox": [
+            5,
+            8,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 362
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\jumping\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17866,
+          "bbox": [
+            18,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 291
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\jumping\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16913,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\jumping\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14392,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 210
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\jumping\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24067,
+          "bbox": [
+            5,
+            10,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 345
+        }
+      ]
+    }
+  ]
+}

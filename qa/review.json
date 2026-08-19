@@ -1,0 +1,1001 @@
+{
+  "ok": true,
+  "frames_root": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18127,
+          "bbox": [
+            34,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 240
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19058,
+          "bbox": [
+            17,
+            9,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18894,
+          "bbox": [
+            17,
+            9,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 252
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18776,
+          "bbox": [
+            17,
+            9,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18635,
+          "bbox": [
+            17,
+            9,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18351,
+          "bbox": [
+            17,
+            9,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 244
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17436,
+          "bbox": [
+            7,
+            14,
+            184,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 373
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15999,
+          "bbox": [
+            10,
+            16,
+            182,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 334
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15461,
+          "bbox": [
+            10,
+            36,
+            182,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 323
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15482,
+          "bbox": [
+            12,
+            13,
+            180,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 360
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17370,
+          "bbox": [
+            5,
+            24,
+            186,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 358
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17151,
+          "bbox": [
+            5,
+            16,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 346
+        },
+        {
+          "index": 6,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16501,
+          "bbox": [
+            12,
+            19,
+            180,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 389
+        },
+        {
+          "index": 7,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15989,
+          "bbox": [
+            16,
+            24,
+            176,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 356
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14718,
+          "bbox": [
+            14,
+            21,
+            175,
+            172
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 270
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13526,
+          "bbox": [
+            17,
+            23,
+            174,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 294
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13025,
+          "bbox": [
+            17,
+            41,
+            174,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 251
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13091,
+          "bbox": [
+            19,
+            20,
+            172,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 286
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14717,
+          "bbox": [
+            13,
+            30,
+            179,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 292
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14113,
+          "bbox": [
+            18,
+            22,
+            174,
+            168
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 254
+        },
+        {
+          "index": 6,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13756,
+          "bbox": [
+            23,
+            25,
+            168,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 290
+        },
+        {
+          "index": 7,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14567,
+          "bbox": [
+            6,
+            30,
+            186,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 373
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17837,
+          "bbox": [
+            18,
+            5,
+            173,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16738,
+          "bbox": [
+            20,
+            5,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 78
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16103,
+          "bbox": [
+            25,
+            5,
+            168,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17259,
+          "bbox": [
+            18,
+            10,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7981,
+          "bbox": [
+            42,
+            89,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8138,
+          "bbox": [
+            42,
+            48,
+            149,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 79
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8503,
+          "bbox": [
+            38,
+            5,
+            153,
+            147
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 81
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6646,
+          "bbox": [
+            49,
+            52,
+            142,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 68
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7653,
+          "bbox": [
+            43,
+            97,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15427,
+          "bbox": [
+            25,
+            5,
+            165,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11204,
+          "bbox": [
+            30,
+            39,
+            161,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10422,
+          "bbox": [
+            40,
+            64,
+            151,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9987,
+          "bbox": [
+            20,
+            107,
+            171,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11600,
+          "bbox": [
+            39,
+            34,
+            151,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12079,
+          "bbox": [
+            41,
+            20,
+            149,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 6,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11169,
+          "bbox": [
+            38,
+            39,
+            153,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 7,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9954,
+          "bbox": [
+            30,
+            62,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 151
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18964,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15112,
+          "bbox": [
+            33,
+            19,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12870,
+          "bbox": [
+            40,
+            30,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16000,
+          "bbox": [
+            21,
+            17,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15190,
+          "bbox": [
+            21,
+            28,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16338,
+          "bbox": [
+            20,
+            18,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18144,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15373,
+          "bbox": [
+            27,
+            44,
+            164,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17702,
+          "bbox": [
+            22,
+            13,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 246
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17079,
+          "bbox": [
+            25,
+            18,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 165
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16277,
+          "bbox": [
+            27,
+            17,
+            165,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16214,
+          "bbox": [
+            27,
+            19,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 156
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17330,
+          "bbox": [
+            22,
+            5,
+            170,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14223,
+          "bbox": [
+            34,
+            12,
+            158,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 149
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11919,
+          "bbox": [
+            41,
+            17,
+            151,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 121
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12863,
+          "bbox": [
+            37,
+            20,
+            155,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 131
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12154,
+          "bbox": [
+            41,
+            22,
+            151,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 153
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12076,
+          "bbox": [
+            31,
+            48,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        }
+      ]
+    }
+  ]
+}
