@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames",
+  "frames_root": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames",
   "states": [
     "running-left"
   ],
@@ -18,85 +18,10 @@
       "frames": [
         {
           "index": 0,
-          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\00.png",
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 19623,
-          "bbox": [
-            5,
-            18,
-            187,
-            189
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 414
-        },
-        {
-          "index": 1,
-          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\01.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 18887,
-          "bbox": [
-            5,
-            12,
-            187,
-            196
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 430
-        },
-        {
-          "index": 2,
-          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\02.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 18310,
-          "bbox": [
-            5,
-            23,
-            187,
-            184
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 424
-        },
-        {
-          "index": 3,
-          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\03.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 19194,
-          "bbox": [
-            5,
-            7,
-            187,
-            200
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 429
-        },
-        {
-          "index": 4,
-          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\04.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 18477,
-          "bbox": [
-            5,
-            18,
-            187,
-            190
-          ],
-          "edge_pixels": 0,
-          "chroma_adjacent_pixels": 380
-        },
-        {
-          "index": 5,
-          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\05.png",
-          "width": 192,
-          "height": 208,
-          "nontransparent_pixels": 20009,
+          "nontransparent_pixels": 18903,
           "bbox": [
             5,
             19,
@@ -104,37 +29,112 @@
             189
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 384
+          "chroma_adjacent_pixels": 472
         },
         {
-          "index": 6,
-          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\06.png",
+          "index": 1,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 21354,
+          "nontransparent_pixels": 20659,
           "bbox": [
-            7,
             5,
-            184,
+            10,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 552
+        },
+        {
+          "index": 2,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19980,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 547
+        },
+        {
+          "index": 3,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18893,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 471
+        },
+        {
+          "index": 4,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20144,
+          "bbox": [
+            9,
+            5,
+            182,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 501
+          "chroma_adjacent_pixels": 557
+        },
+        {
+          "index": 5,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19645,
+          "bbox": [
+            5,
+            11,
+            187,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 525
+        },
+        {
+          "index": 6,
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19362,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 523
         },
         {
           "index": 7,
-          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\07.png",
+          "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15245,
+          "nontransparent_pixels": 18708,
           "bbox": [
             5,
-            27,
+            21,
             187,
-            180
+            186
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 359
+          "chroma_adjacent_pixels": 496
         }
       ]
     }

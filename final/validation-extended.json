@@ -1,6 +1,6 @@
 {
-  "ok": false,
-  "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\final\\spritesheet-extended.webp",
+  "ok": true,
+  "file": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\final\\spritesheet-extended.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -9,9 +9,7 @@
   "width": 1536,
   "height": 2288,
   "transparent_rgb_residue_pixels": 0,
-  "errors": [
-    "running-left row 2 column 5 has 2 visible edge pixels contaminated by chroma key #FF00FF"
-  ],
+  "errors": [],
   "warnings": [],
   "cells": [
     {
@@ -163,7 +161,7 @@
       "row": 2,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 14718,
+      "nontransparent_pixels": 17677,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -172,8 +170,8 @@
       "row": 2,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 13526,
-      "opaque_chroma_key_pixels": 1,
+      "nontransparent_pixels": 16664,
+      "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
     {
@@ -181,8 +179,8 @@
       "row": 2,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 13025,
-      "opaque_chroma_key_pixels": 1,
+      "nontransparent_pixels": 15680,
+      "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
     {
@@ -190,7 +188,7 @@
       "row": 2,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 13091,
+      "nontransparent_pixels": 17289,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -199,7 +197,7 @@
       "row": 2,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 14717,
+      "nontransparent_pixels": 15716,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -208,16 +206,16 @@
       "row": 2,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 14113,
+      "nontransparent_pixels": 17355,
       "opaque_chroma_key_pixels": 0,
-      "chroma_fringe_pixels": 2
+      "chroma_fringe_pixels": 0
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 13756,
+      "nontransparent_pixels": 16705,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -226,7 +224,7 @@
       "row": 2,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 14567,
+      "nontransparent_pixels": 17288,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -739,7 +737,7 @@
       "row": 10,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 6291,
+      "nontransparent_pixels": 11550,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -748,7 +746,7 @@
       "row": 10,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 6181,
+      "nontransparent_pixels": 11322,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -757,7 +755,7 @@
       "row": 10,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 5715,
+      "nontransparent_pixels": 10569,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -766,7 +764,7 @@
       "row": 10,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 5769,
+      "nontransparent_pixels": 10483,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -775,7 +773,7 @@
       "row": 10,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 5543,
+      "nontransparent_pixels": 10282,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -784,7 +782,7 @@
       "row": 10,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 5477,
+      "nontransparent_pixels": 10656,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -793,7 +791,7 @@
       "row": 10,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 5705,
+      "nontransparent_pixels": 10665,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -802,7 +800,7 @@
       "row": 10,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 5895,
+      "nontransparent_pixels": 10790,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     }

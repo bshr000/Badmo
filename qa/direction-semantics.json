@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa-worker",
+  "visual_qa": "pass",
+  "qa_note": "坏墨 preserves its black-and-white feline identity, green eyes, red scarf, proportions, and illustrated style across rows 0-8; all animations read correctly without clipping, detached effects, reversed cadence, or obvious scale popping, while the 16-pose clockwise look loop has unmistakable cardinals and only acceptable intermediate uncertainties.",
+  "directions": [
+    {"direction":"000 up","verdict":"pass","expected":"up","observed":"up","reason":"The face remains centered while both pupils and muzzle angle lift clearly above neutral; the up cardinal is unmistakable."},
+    {"direction":"022.5 up-right","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Horizontal evidence: pupils and nose shift slightly toward screen-right. Vertical evidence: pupils remain high and the chin/muzzle lifts."},
+    {"direction":"045 up-right","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Horizontal evidence: the face and muzzle turn visibly toward screen-right. Vertical evidence: the pupils sit high and the head remains raised."},
+    {"direction":"067.5 up-right","verdict":"warning","expected":"up-right","observed":"up-right with subtle vertical cue","reason":"Horizontal evidence: the increasingly exposed side profile and nose aim clearly screen-right. Vertical evidence: the visible pupil and lifted muzzle retain a modest upward bias; blind vertical uncertainty is accepted because the labeled ordered loop remains in the correct quadrant."},
+    {"direction":"090 right","verdict":"pass","expected":"right","observed":"right","reason":"The head presents an unmistakable screen-right profile with the muzzle, nose, and visible eye aimed toward the right edge."},
+    {"direction":"112.5 down-right","verdict":"warning","expected":"down-right","observed":"down-right","reason":"Horizontal evidence: the nose, visible eye, and head turn remain screen-right. Vertical evidence: lowered pupils, dipped muzzle, and crouched head establish down; the larger measured transition from 090 reflects readable posture change rather than visible rescaling or identity drift."},
+    {"direction":"135 down-right","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Horizontal evidence: the bowed face and muzzle remain displaced toward screen-right. Vertical evidence: the lowered eyes and pronounced head dip clearly read downward."},
+    {"direction":"157.5 down-right","verdict":"warning","expected":"down-right","observed":"down-right with subtle horizontal cue","reason":"Horizontal evidence: the normal-size labeled pose retains a slight screen-right nose/head bias within the clockwise approach to down. Vertical evidence: the eyes and muzzle point strongly downward; the blind opposite horizontal vote is retained as a warning because the ordered loop shows no quadrant reversal."},
+    {"direction":"180 down","verdict":"pass","expected":"down","observed":"down","reason":"The face is centered and unmistakably bowed, with both pupils and muzzle directed below neutral."},
+    {"direction":"202.5 down-left","verdict":"warning","expected":"down-left","observed":"down-left with subtle horizontal cue","reason":"Horizontal evidence: the nose and face begin shifting toward screen-left from the centered down cardinal. Vertical evidence: lowered pupils and bowed muzzle remain clearly down; blind horizontal ambiguity is accepted in the coherent labeled loop."},
+    {"direction":"225 down-left","verdict":"warning","expected":"down-left","observed":"down-left","reason":"Horizontal evidence: the head, muzzle, and visible facial plane turn farther toward screen-left. Vertical evidence: the eyes and muzzle remain lowered; blind horizontal ambiguity is retained as a warning because the normal-size pose confirms the quadrant."},
+    {"direction":"247.5 down-left","verdict":"warning","expected":"down-left","observed":"down-left in ordered-loop context","reason":"Horizontal evidence: the holistic head and muzzle orientation advances toward the unmistakable 270 screen-left profile despite conflicting blind eye-axis classification. Vertical evidence: the lowered eye and dipped muzzle preserve the down component; uncertainties on both axes are retained as warnings without a visible reversal."},
+    {"direction":"270 left","verdict":"pass","expected":"left","observed":"left","reason":"The head and muzzle form an unmistakable screen-left profile, clearly opposing the 090 right cardinal."},
+    {"direction":"292.5 up-left","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Horizontal evidence: the muzzle, visible eye, and head turn remain screen-left. Vertical evidence: the pupil and lifted chin move above the horizontal cardinal."},
+    {"direction":"315 up-left","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Horizontal evidence: the nose and pupils retain a clear screen-left bias. Vertical evidence: the eyes and muzzle lift strongly upward."},
+    {"direction":"337.5 up-left","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Horizontal evidence: a slight screen-left facial and pupil bias remains before returning to 000. Vertical evidence: the raised pupils and muzzle make up dominant; the wrap to 000 is cohesive without reversal."}
+  ],
+  "review_warnings": [
+    "All standard rows use stable-slots extraction; visual review confirms stable, complete, unclipped playback.",
+    "Blind intermediate uncertainties remain for 067.5, 157.5, 202.5, 225, and 247.5, but labeled normal-size review confirms their intended quadrants and no loop reversal.",
+    "Continuity metrics flag 090->112.5, 112.5->135, 157.5->180, and 337.5->000; visually these are explainable pose/profile transitions without conspicuous scale pop, registration jump, broken attachment, or identity change.",
+    "The 067.5 alpha-hole candidate is visually consistent with natural silhouette negative space and does not appear as an interior seam or damaged body."
+  ]
+}
