@@ -13,14 +13,14 @@
     {
       "state": "running-left",
       "frames": [
-        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\00.png",
-        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\01.png",
-        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\02.png",
-        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\03.png",
-        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\04.png",
-        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\05.png",
-        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\06.png",
-        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-run\\qa\\rows\\running-left\\frames\\running-left\\07.png"
+        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\00.png",
+        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\01.png",
+        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\02.png",
+        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\03.png",
+        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\04.png",
+        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\05.png",
+        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\06.png",
+        "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\rows\\running-left\\frames\\running-left\\07.png"
       ],
       "method": "components"
     }

@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "pet_id": "huaimo",
+  "display_name": "坏墨",
+  "spriteVersionNumber": 2,
+  "run_dir": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run",
+  "spritesheet": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\final\\spritesheet-extended.webp",
+  "validation": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\final\\validation-extended.json",
+  "chroma_despill": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\chroma-despill-extended.json",
+  "contact_sheet": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\contact-sheet-extended.png",
+  "direction_sheet": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\look-directions.png",
+  "direction_semantics": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\direction-semantics.json",
+  "blind_direction_validation": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\direction-blind-validation.json",
+  "blind_review_resolution": null,
+  "continuity": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\look-continuity.json",
+  "review": "D:\\Codex\\AI_Workspace\\01_Content\\pet\\huaimo-repair-run\\qa\\review.json",
+  "package": "C:\\Users\\不是好人000\\.codex\\pets\\huaimo",
+  "repair_notes": [
+    "Regenerated running-left as a native left-facing row to remove mirrored chroma fringe.",
+    "Regenerated look row 10 so the 180-degree down cardinal passes blind review.",
+    "All deterministic validation and independent final visual QA passed."
+  ]
+}
